@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakePHP Application Skeleton
 
 ![Build Status](https://github.com/cakephp/app/actions/workflows/ci.yml/badge.svg?branch=5.x)
@@ -56,3 +57,7 @@ Other environment agnostic settings can be changed in `config/app.php`.
 The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+=======
+# sigit_pah_madagascar
+Systeme de gestion des interventions informatique
+>>>>>>> 63e5ed5725f4b16ef31049cb90ee3b892f20ce9a
